@@ -16,7 +16,7 @@ Gungi is a two-player fictional strategy game created by Yoshihiro Togashi and i
 - load save
 - check for mate / stalemate
 - screen resolution
-- port to js to make accessible to play online
+- port to js to make accessible for online play
 
 ---
 *Any feedback is appreciated.*
