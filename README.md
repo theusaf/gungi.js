@@ -6,7 +6,7 @@ Gungi is a two-player fictional strategy game created by Yoshihiro Togashi and i
 
 ## Features/How To Play
 
-- implemented game rules established by the hard work of reddit users [u/Zaneme](https://www.reddit.com/user/squal777) and [u/squal777](https://www.reddit.com/user/squal777). See [rules](https://www.docdroid.net/P4r6Fvq/gungi.pdf)
+- implemented game rules established by the hard work of reddit users [u/Zaneme](https://www.reddit.com/user/Zaneme) and [u/squal777](https://www.reddit.com/user/squal777). See [rules](https://www.docdroid.net/P4r6Fvq/gungi.pdf)
 
 ## TODO
 
