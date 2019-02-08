@@ -1,6 +1,6 @@
 # Gungi
 
-![gameboard](https://imgur.com/a/m3kTlVP)
+![gameboard](https://i.imgur.com/CkNhrgd.png)
 
 Gungi is a two-player fictional strategy game created by Yoshihiro Togashi and is featured in the popular manga/anime series Hunter X Hunter. It draws aspects from similar games such as chess, shogi, and go, but adds an interesting 3rd dimension to gameplay by allowing pieces to be stacked on top of each other.
 
