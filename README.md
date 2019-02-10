@@ -2,7 +2,7 @@
 
 ![gameboard](https://i.imgur.com/CkNhrgdl.png)
 
-Gungi is a two-player fictional strategy game created by Yoshihiro Togashi and is featured in the popular manga/anime series Hunter X Hunter. It draws aspects from similar games such as chess, shogi, and go, but adds an interesting 3rd dimension to gameplay by allowing pieces to be stacked on top of each other forming towers. A detailed ruleset was not specified in Togashi's work, however thanks to the Hunter X Hunter community this game can exist.
+Gungi is a two-player fictional strategy game created by Yoshihiro Togashi and is featured in the popular manga/anime series Hunter X Hunter. It draws aspects from similar games such as chess, shogi, and go, but adds an interesting 3rd dimension to gameplay by allowing pieces to be stacked on top of each other forming towers. A detailed ruleset was not specified in Togashi's work, however thanks to the Hunter X Hunter community the game is a reality.
 
 ## Features/How To Play
 
@@ -36,6 +36,7 @@ Implemented game rules established by reddit users [u/Zaneme](https://www.reddit
 - help screen
 - save game
 - load save
+- show piece/tower info on hover instead of click
 - check for mate / stalemate
 - screen resolution
 - port to js to make accessible for online play
